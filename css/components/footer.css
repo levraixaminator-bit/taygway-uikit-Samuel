@@ -1,0 +1,20 @@
+.footer {
+
+  padding: 40px;
+  background-color: #1a1a1a;
+  text-align: center;
+  color: white;
+  margin-top: 60px;
+
+}
+
+
+.footer p {
+  margin-bottom: 15px;
+  opacity: 0.8;
+}
+
+.footer a{
+  color: white;
+  text-decoration: underline;
+}
